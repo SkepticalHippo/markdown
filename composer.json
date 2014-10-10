@@ -3,6 +3,12 @@
     "description": "Markdown compiler for Laravel 4",
     "keywords": ["laravel", "md", "markdown", "illuminate"],
     "license": "MIT",
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/SkepticalHippo/php-markdown"
+        }
+    ],
     "authors": [
         {
             "name": "Vincent Talbot",
